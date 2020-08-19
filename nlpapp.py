@@ -7,7 +7,7 @@ import numpy
 import pandas
 import sklearn
 import pickle
-
+import cv2
 
 
 def classify(text):
